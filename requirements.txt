@@ -5,3 +5,4 @@ newrelic
 dj-database-url
 # Requirements due errors when running sentry
 psycopg2
+sentry-webhooks
