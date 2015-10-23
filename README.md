@@ -7,7 +7,7 @@ Using this as base repo you can easily deploy sentry on heroku
 
 Just click on the deploy button to create a new app with preinstalled sentry and the required redis/postrgesql/sendgrid addons (free)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alex88/sentry-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/leandono/sentry-heroku)
 
 Be sure to set an app name and change the environemnt variable accordignly.
 In case you didn't do that, use this command to set the sentry base url:
